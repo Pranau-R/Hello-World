@@ -1,2 +1,6 @@
 # Hello-World
-Hello world files
+Hello world!
+
+This repository contains the following files:
+
+- App
