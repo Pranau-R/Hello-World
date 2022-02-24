@@ -5,3 +5,4 @@ This repository contains the following files:
 
 - App
 - Doc
+- assets
