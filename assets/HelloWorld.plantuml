@@ -1,0 +1,7 @@
+@startuml
+
+start
+:Print "Hello World";
+stop
+
+@enduml
