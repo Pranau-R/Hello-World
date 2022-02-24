@@ -7,3 +7,7 @@ This repository contains the following files:
 - Doc
 - assets
 - src
+
+The following image is the Flow chart:
+
+![Hello World](assets/HelloWorld.png)
